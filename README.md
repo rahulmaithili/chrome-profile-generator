@@ -6,11 +6,11 @@
   <p><em>BUILD • AUTOMATE • GROW</em></p>
 
   <p>
-    <a href="https://github.com/rahulmaithili/chrome-profile-generator/releases/latest/download/Chrome_Profile_Generator.exe">
-      <img src="https://img.shields.io/badge/Download-Direct%20EXE%20(1--Click)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download EXE"/>
+    <a href="https://github.com/rahulmaithili/chrome-profile-generator/releases/download/v2.0.0/Chrome_Profile_Generator.exe">
+      <img src="https://img.shields.io/badge/Download-Direct%20EXE%20v2.0.0-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download EXE"/>
     </a>
-    <a href="https://github.com/rahulmaithili/chrome-profile-generator/releases/latest">
-      <img src="https://img.shields.io/github/v/release/rahulmaithili/chrome-profile-generator?style=for-the-badge&color=0969da" alt="Latest Release"/>
+    <a href="https://github.com/rahulmaithili/chrome-profile-generator/releases/tag/v2.0.0">
+      <img src="https://img.shields.io/badge/Release-v2.0.0-0969da?style=for-the-badge&logo=github&logoColor=white" alt="v2.0.0 Release"/>
     </a>
   </p>
 </div>
@@ -25,11 +25,15 @@ Standalone `.exe` format me bina Python install kiye bhi chalta hai!
 
 Aapko Python install karne ki koi jarurat nahi hai, direct ready-to-run `.exe` download karein:
 
-| Download Link | Type | OS |
-| :--- | :--- | :--- |
-| 🚀 **[Chrome_Profile_Generator.exe (Direct Download)](https://github.com/rahulmaithili/chrome-profile-generator/releases/latest/download/Chrome_Profile_Generator.exe)** | Standalone Executable | Windows 10 / 11 |
+| Version | Download Link | File Size | OS |
+| :--- | :--- | :--- | :--- |
+| 🚀 **v2.0.0 (Latest)** | **[Chrome_Profile_Generator.exe](https://github.com/rahulmaithili/chrome-profile-generator/releases/download/v2.0.0/Chrome_Profile_Generator.exe)** | ~12.6 MB | Windows 10 / 11 |
+| ⚡ **Auto-Latest** | **[Direct 1-Click Download](https://github.com/rahulmaithili/chrome-profile-generator/releases/latest/download/Chrome_Profile_Generator.exe)** | Latest Build | Windows 10 / 11 |
 
-*(Sabhi versions dekhne ke liye: [GitHub Releases Page](https://github.com/rahulmaithili/chrome-profile-generator/releases))*
+*(Sabhi releases aur source code dekhne ke liye: [GitHub Releases Page](https://github.com/rahulmaithili/chrome-profile-generator/releases))*
+
+> 💡 **Note for Windows Users:**
+> Agar download karte waqt browser ya Windows *"Keep"* ya *"Unknown Publisher"* dikhaye, toh **More info** par click karke **Run anyway** karein. Ye software 100% open-source aur clean hai (Developed by Mr.Rahul Scripts).
 
 ---
 
