@@ -15,7 +15,7 @@ if %errorlevel% neq 0 (
 )
 
 echo.
-python -m PyInstaller --noconsole --onefile --icon="assets\icon.ico" --add-data "assets;assets" --name "Chrome_Profile_Generator" --hidden-import=win32com --hidden-import=win32com.client --clean main.py
+python -m PyInstaller --noconsole --onefile --icon="assets\icon.ico" --add-data "assets;assets" --version-file="version_info.txt" --manifest="app.manifest" --name "Chrome_Profile_Generator" --hidden-import=win32com --hidden-import=win32com.client --clean main.py
 
 if exist "dist\Chrome_Profile_Generator.exe" (
     echo.
