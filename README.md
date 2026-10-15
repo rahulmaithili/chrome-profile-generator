@@ -4,11 +4,32 @@
   <img src="assets/logo.png" alt="Rahul Scripts Logo" width="220"/>
   <h3>🔥 Developed by Mr.Rahul Scripts 🔥</h3>
   <p><em>BUILD • AUTOMATE • GROW</em></p>
+
+  <p>
+    <a href="https://github.com/rahulmaithili/chrome-profile-generator/releases/latest/download/Chrome_Profile_Generator.exe">
+      <img src="https://img.shields.io/badge/Download-Direct%20EXE%20(1--Click)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download EXE"/>
+    </a>
+    <a href="https://github.com/rahulmaithili/chrome-profile-generator/releases/latest">
+      <img src="https://img.shields.io/github/v/release/rahulmaithili/chrome-profile-generator?style=for-the-badge&color=0969da" alt="Latest Release"/>
+    </a>
+  </p>
 </div>
 
 Computer me install sabhi browsers (**Google Chrome, Microsoft Edge, Opera, Opera GX, Brave, Vivaldi** ya koi bhi **Custom Browser**) ke unlimited profiles aur Desktop shortcuts 1-click me banane ke liye powerful Windows tool. 
 
 Standalone `.exe` format me bina Python install kiye bhi chalta hai!
+
+---
+
+## 📥 Direct Download (सीधे डाउनलोड करें)
+
+Aapko Python install karne ki koi jarurat nahi hai, direct ready-to-run `.exe` download karein:
+
+| Download Link | Type | OS |
+| :--- | :--- | :--- |
+| 🚀 **[Chrome_Profile_Generator.exe (Direct Download)](https://github.com/rahulmaithili/chrome-profile-generator/releases/latest/download/Chrome_Profile_Generator.exe)** | Standalone Executable | Windows 10 / 11 |
+
+*(Sabhi versions dekhne ke liye: [GitHub Releases Page](https://github.com/rahulmaithili/chrome-profile-generator/releases))*
 
 ---
 
